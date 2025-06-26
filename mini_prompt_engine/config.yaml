@@ -1,0 +1,3 @@
+provider: openai
+api_key: "add-api-key-here"
+model: "gpt-4"
